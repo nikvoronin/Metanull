@@ -1,0 +1,10 @@
+﻿using System.Reflection;
+[assembly: AssemblyTitle("Metanull")]
+[assembly: AssemblyDescription("A Windows application for removing metadata from JPEG files which are created by digital cameras or mobile phones.")]
+[assembly: AssemblyConfiguration("")]
+[assembly: AssemblyCompany("Nikolai Voronin")]
+[assembly: AssemblyProduct("Metanull")]
+[assembly: AssemblyCopyright("Copyright © 2012-2013 Nikolai Voronin")]
+[assembly: AssemblyTrademark("")]
+[assembly: AssemblyCulture("")]
+[assembly: AssemblyVersion("1.1.*")]
