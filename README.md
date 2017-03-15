@@ -5,3 +5,5 @@ To avoid these kind of issues you can remove metadata selectively, that is by re
 Metanull is a portable Windows application that can remove metadata from your photos or images. It can be used to remove exif data from single or multiple images. The program is simple to use, select a single image or select a folder to batch remove meta information. Then select where you want to store meta data stripped images. Once done just hit the Null It button.
 
 It will do the job in a min or so depending on the number of images you through at it. See the below image showing before and after stripping exif data with the program.
+
+![Before and after stripping exif data](https://cloud.githubusercontent.com/assets/11328666/23952024/1e6eae40-09a1-11e7-91e9-727e6f838b9f.png)
